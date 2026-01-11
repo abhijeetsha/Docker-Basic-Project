@@ -1,2 +1,8 @@
 # Docker-All-Project
-Basic Projecr Of Docker
+## Basic-Docker-Python-Project
+docker-flask-app/
+│
+├── app.py
+├── requirements.txt
+└── Dockerfile
+
