@@ -22,3 +22,12 @@
 ## 5) Docker Compose project
 
 ## 6) Production-ready Docker project
+✅ Docker Compose
+
+✅ Node.js + MongoDB
+
+✅ Environment variables
+
+✅ Production-ready multi-stage Dockerfile
+
+✅ REST API with CRUD
