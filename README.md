@@ -11,11 +11,19 @@
 * │
 * ├── index.js
 * ├── package.json
-* ├── package-lock.json
+* ├── package-lock.json  "dont make this file"
 * └── Dockerfile
 
 ## 3) Docker-React-Project
-
+* docker-react-app/
+* │
+* ├── Dockerfile
+* ├── nginx.conf
+* ├── package.json
+* ├── package-lock.json "dont make this file"
+* └── src/
+    * ├── App.js
+    * └── index.js  "dont make this file"
 
 ## 4) Docker + MySQL + Backend
 
