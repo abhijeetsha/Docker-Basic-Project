@@ -26,6 +26,18 @@
     * └── index.js  "dont make this file"
 
 ## 4) Docker + MySQL + Backend
+* docker-mysql-backend/
+* │
+* ├── backend/
+* │   ├── Dockerfile
+* │   ├── index.js
+* │   ├── db.js
+* │   ├── package.json
+* │
+* ├── db/
+* │   └── init.sql
+* │
+* └── docker-compose.yml
 
 ## 5) Docker Compose project
 
